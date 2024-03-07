@@ -24,8 +24,20 @@ This is a simple contact form application built with React.js that allows users 
 
 ### Installation
 
-1. Clone the repository:
+1. ### Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/himanshu01010/contact-from.git
+```
+2. ### Navigate to the project directory
+```bash
+  cd form
+```
+3. ### Install dependencies
+```bash
+npm install
+```
+4. ### Run the development server
+```bash
+npm run dev
 ```
